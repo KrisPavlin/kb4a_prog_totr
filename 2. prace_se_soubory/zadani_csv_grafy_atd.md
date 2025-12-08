@@ -8,7 +8,7 @@ Načti dataset *vira_v_cesku.csv*, který obsahuje data o víře dle sčítání
 Dataset obsahuje pouze krajská města.
 
 Zkus odpovědět na následující otázky: 
- 1. Jaká je nejpopulárnější víra v "*Brno*?
+ 1. Jaká je nejpopulárnější víra v "*Brno*"?
  2. Kolik celkově je v "*Brno*" rozných náboženství a věřících? Jaký je průměrný počet věřících v Brně na jedno náboženství?
  3. Kolik lidí ma jako víru "*Jedi*". V kterém městě jich je nejvíce?
  4. Vytvoř koláčový graf se součtem lidí "*Bez náboženské víry*" a celkovým součtem věřících.
